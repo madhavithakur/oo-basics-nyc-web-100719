@@ -13,7 +13,7 @@ class Shoe
   end
   
   
-  def condition=(new)
-    @condition = new
-  end 
+  # def condition=(new)
+  #   @condition = new
+  # end 
 end 
